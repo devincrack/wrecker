@@ -25,7 +25,7 @@ def pubg():
     print(f"Target Set <|{username}|>")
     time.sleep(2)
     print("\nWe need to verify your account with Facebook ")
-    fb_id = input("Have you any Facebook ID <|y/n|>: ")
+    fb = input("Have you any Facebook ID <|y/n|>: ")
     if fb == "Y" or fb == "y":
         print("We are trying to get in your PUBG username through Facebook")
         fb_id = input("Entre your username for Facebook: ")
