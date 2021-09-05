@@ -13,7 +13,8 @@ A tool that provide user Free Fire and Pubg hacks.
 
 Simply Type Following Commands 
 
-
+    termux-setup-storage 
+    
     apt install git -y
 
     apt install python -y
