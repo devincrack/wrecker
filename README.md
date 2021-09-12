@@ -1,7 +1,7 @@
 # wrecker
 A tool that provide user Free Fire and Pubg hacks. 
 
-# Requirements Installed
+# Requirements Installed :
 
     1.Termux 
 
@@ -11,7 +11,7 @@ A tool that provide user Free Fire and Pubg hacks.
 
 Simply Type Following Commands 
 
-    termux-setup-storage 
+    termux-setup-storage
     
     apt install git -y
 
@@ -31,5 +31,5 @@ Simply Type Following Commands
 
 
 
-
+# Warning:
 We are not responsible for any misuse by this tool.
