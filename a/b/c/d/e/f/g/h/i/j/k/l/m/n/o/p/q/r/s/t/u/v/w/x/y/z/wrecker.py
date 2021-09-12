@@ -97,7 +97,11 @@ while game!=0:
     print('''\n[1.] PUBG \n[2.] FREE FIRE \n[0.] Exit
     ''')
     game = int(input("Select Your GamePlay <|1,2,0|>: "))
-    if game == 1:
+    if game == 0:
+        print("Thanks For Using Wrecker!")
+        time.sleep(2)
+        exit() 
+    elif game == 1:
         pubg()
     elif game == 2:
         free_fire()
