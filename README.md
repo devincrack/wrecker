@@ -5,9 +5,7 @@ A tool that provide user Free Fire and Pubg hacks.
 
     1.Termux 
 
-    2.Termux-api 
-
-    3.Python
+    2.Python
 
 # How to Install wrecker ? 
 
@@ -28,9 +26,8 @@ Simply Type Following Commands
 
     python setup.py
 
-    python wrecker.py
 
- Now Enter Your Details asking by this tool. 
+ Now Enter Your Details asking by this tool to access server conection. 
 
 
 
